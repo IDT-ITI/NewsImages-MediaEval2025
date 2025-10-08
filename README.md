@@ -90,4 +90,4 @@ python MediaEval2025_LLM_reranking.py
 
 If you find our method useful in your work, please cite the following publication where this approach was proposed:
 
-D. Galanopoulos, A. Goulas, V. Mezaris, "Image Recommendation for News Articles Using Cross-modal Foundation Models", 2025 Multimedia Evaluation Workshop (MediaEval'25), Dublin, Ireland.
+D. Galanopoulos, A. Goulas, V. Mezaris, "Cross-modal Image Recommendation for News Articles by Multimodal Foundation Models-based Retrieval-Reranking", 2025 Multimedia Evaluation Workshop (MediaEval'25), Dublin, Ireland.
